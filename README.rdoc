@@ -1,0 +1,1 @@
+I really like the Koans approach to learning programming... and other things in life. I'm very glad that http://rubykoans.com put together these Koans for learning Ruby. Here are my solutions.
